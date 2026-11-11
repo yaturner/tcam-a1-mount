@@ -8,6 +8,12 @@ The mount is one rigid printed bracket. The case tilts on an M3 pivot and is loc
 
 ![A1 mount views](docs/a1_views.png)
 
+## Assembly and installation
+
+![assembly diagram](docs/a1_assembly.png)
+
+Printable version (US Letter, landscape): [a1_assembly.pdf](docs/a1_assembly.pdf)
+
 ## Parts
 
 | File | Qty | Notes |
